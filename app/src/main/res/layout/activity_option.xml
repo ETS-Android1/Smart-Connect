@@ -30,6 +30,22 @@
         android:textColor="@color/colorPrimaryDark"
         android:layout_margin="10dp"
         android:textSize="18sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/darkmode"
+        android:text="Dark Theme"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_margin="10dp"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lightmode"
+        android:text="Light Theme"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_margin="10dp"
+        android:textSize="18sp"/>
 
 
 </LinearLayout>

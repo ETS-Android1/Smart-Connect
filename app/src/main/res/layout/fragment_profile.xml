@@ -69,9 +69,9 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:gravity="right"
+                        android:gravity="center_horizontal"
 
-                        android:layout_marginRight="30dp"
+                        android:layout_marginRight="5dp"
                         android:orientation="horizontal">
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -90,7 +90,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textColor="@color/black"
-                                android:text="No of Posts"/>
+                                android:text="Posts"/>
                         </LinearLayout>
                         <LinearLayout
                             android:layout_width="wrap_content"

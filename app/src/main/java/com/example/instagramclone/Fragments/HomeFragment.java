@@ -1,5 +1,6 @@
 package com.example.instagramclone.Fragments;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -10,8 +11,12 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
+import com.example.instagramclone.MessageActivity;
+import com.example.instagramclone.PostActivity;
 import com.example.instagramclone.R;
+import com.example.instagramclone.Start_activity;
 import com.example.instagramclone.model.Post;
 import com.example.instagramclone.model.PostAdapter;
 import com.example.instagramclone.model.User;
@@ -30,12 +35,16 @@ public class HomeFragment extends Fragment {
     private PostAdapter postAdapter;
     private List<Post> postList;
     private List<String> followinglist;
+    private ImageView camera;
+    private  ImageView gotomessage;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
         recyclerviewpost = view.findViewById(R.id.recyclerview_posts);
+        camera = view.findViewById(R.id.camera);
+        gotomessage = view.findViewById(R.id.messages);
         recyclerviewpost.setHasFixedSize(true);
        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getContext());
        linearLayoutManager.setStackFromEnd(true);
@@ -47,6 +56,19 @@ public class HomeFragment extends Fragment {
 
       followinglist = new ArrayList<>();
       checkfollowingusers();
+      camera.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+              startActivity( new Intent(getContext(), PostActivity.class));
+          }
+      });
+      gotomessage.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+              startActivity(new Intent(getContext(), MessageActivity.class));
+          }
+      });
+
 
         return view;
     }

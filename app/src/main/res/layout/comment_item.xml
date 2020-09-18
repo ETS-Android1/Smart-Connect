@@ -31,12 +31,15 @@
             android:maxLines="5"
             android:id="@+id/comment"
             android:text="This is a comment"/>
+        <View style="@style/Divider"
+            android:layout_below="@+id/comment"
+            android:layout_marginTop="2dp"/>
+
 
 
     </LinearLayout>
-    <View style="@style/Divider"
-        android:layout_below="@+id/profile_image"
-        android:layout_marginTop="2dp"/>
+
+
 
 
 </RelativeLayout>
