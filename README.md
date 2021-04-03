@@ -5,6 +5,17 @@
     <h1 align="center">Social Media App like Instagram</h1>
 </p>
 
+## 🌟 Features
+Social Media App.
+- Upload Post, View Someone else Post.
+- Like , Comment , Share, Save Post.
+- Follower Following Feature,View Followers Followings.
+- Chat with Anyone. 
+- Edit Profile Feature to change Username.
+
+
+
+
 ## ✨ Screenshots
 
 | Main Activity | SignUp Page |  Login Page |
