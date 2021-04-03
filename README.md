@@ -1,3 +1,3 @@
 # InstagramClone
-instagram clone using firebase and java
+Instagram Like Social Media App using Firebase and Java
 
