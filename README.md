@@ -13,7 +13,7 @@
 | Home | Search User |  Your Profile |
 | ![4](ss/image1.jpg?raw=true) | ![5](ss/image2.jpg?raw=true) | ![6](ss/image3.jpg?raw=true) |
 | Chat |  Notification |  View Post |
-| ![4](ss/image4.jpg?raw=true) | ![5](ss/image5.jpg?raw=true) | ![6](ss/image4.jpg?raw=true) |
+| ![4](ss/image4.jpg?raw=true) | ![5](ss/image5.jpg?raw=true) | ![6](ss/image6.jpg?raw=true) |
 | Upload Post |  Edit Profile |  Settings |
 | ![4](ss/image7.jpg?raw=true) | ![5](ss/image8.jpg?raw=true) | ![6](ss/image9.jpg?raw=true) |
 
