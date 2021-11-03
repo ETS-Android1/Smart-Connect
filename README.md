@@ -14,7 +14,7 @@ Social Media App.
 - Edit Profile Feature to change Username.
 
 ## 🌟 Download Link
-You can download the Android application  to use from [here](https://drive.google.com/file/d/1EwsI7bq2vTzz-wzQ_i6LBMA0jHsb2q7M/view?usp=sharing).
+You can download the Android Application  to use from [here](https://drive.google.com/file/d/1EwsI7bq2vTzz-wzQ_i6LBMA0jHsb2q7M/view?usp=sharing).
 
 
 ## ✨ Screenshots
