@@ -2,7 +2,7 @@
     <a>
     <img src="ic_launcher-playstore-removebg-preview.png" width="0" height="0"/>
     </a>
-    <h1 align="center">Social Media App like Instagram</h1>
+    <h1 align="center">Smart Connect - A Social Media App</h1>
 </p>
 
 ## 🌟 Features
