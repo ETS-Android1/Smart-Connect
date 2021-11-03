@@ -34,7 +34,6 @@ public class ChatAdapter extends  RecyclerView.Adapter<ChatAdapter.ViewHolder> {
     private Context mcontext;
     private  String uniquenode;
     boolean isMe;
-
     private List<Chat> mcomments;
     private FirebaseUser firebaseUser ;
 

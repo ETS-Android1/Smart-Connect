@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     tools:context=".Fragments.ProfileFragment">
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -40,6 +41,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
     <ScrollView
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/bar">
