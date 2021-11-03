@@ -13,7 +13,8 @@ Social Media App.
 - Chat with Anyone. 
 - Edit Profile Feature to change Username.
 
-
+## 🌟 Download Link
+You can download the Android application  to use from [here](https://drive.google.com/file/d/1EwsI7bq2vTzz-wzQ_i6LBMA0jHsb2q7M/view?usp=sharing).
 
 
 ## ✨ Screenshots
@@ -29,7 +30,6 @@ Social Media App.
 | ![4](ss/image7.jpg?raw=true) | ![5](ss/image8.jpg?raw=true) | ![6](ss/image9.jpg?raw=true) |
 
 
-## ✨ Download Link
-You can download the Android application  to use from [here](https://drive.google.com/file/d/1EwsI7bq2vTzz-wzQ_i6LBMA0jHsb2q7M/view?usp=sharing).
+
 
 
