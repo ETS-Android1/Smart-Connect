@@ -19,6 +19,7 @@
         android:textStyle="bold"
         android:layout_marginTop="3dp"
         android:maxLines="5"
+        android:textColor="@color/black"
         android:id="@+id/comment"
         android:text="This is a Message"
         android:padding="10dp"/>
