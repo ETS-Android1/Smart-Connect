@@ -2,7 +2,7 @@
     <a>
     <img src="ic_launcher-playstore-removebg-preview.png" width="0" height="0"/>
     </a>
-    <h1 align="center">Social Media App like Instagram</h1>
+    <h1 align="center">Smart Connect - A Social Media App</h1>
 </p>
 
 ## 🌟 Features
@@ -13,7 +13,8 @@ Social Media App.
 - Chat with Anyone. 
 - Edit Profile Feature to change Username.
 
-
+## 🌟 Download Link
+You can download the Android Application  to use from [here](https://drive.google.com/file/d/1EwsI7bq2vTzz-wzQ_i6LBMA0jHsb2q7M/view?usp=sharing).
 
 
 ## ✨ Screenshots
@@ -27,4 +28,8 @@ Social Media App.
 | ![4](ss/image4.jpg?raw=true) | ![5](ss/image5.jpg?raw=true) | ![6](ss/image6.jpg?raw=true) |
 | Upload Post |  Edit Profile |  Settings |
 | ![4](ss/image7.jpg?raw=true) | ![5](ss/image8.jpg?raw=true) | ![6](ss/image9.jpg?raw=true) |
+
+
+
+
 
