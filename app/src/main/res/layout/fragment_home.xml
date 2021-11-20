@@ -36,7 +36,7 @@
                     android:backgroundTint="@color/white"
                     android:layout_width="wrap_content"
                     android:layout_height="30dp"
-                    android:text="Smart Connect"
+                    android:text="Social Connect"
                     android:textStyle="bold"
                     android:textSize="20sp"
                     android:gravity="start"

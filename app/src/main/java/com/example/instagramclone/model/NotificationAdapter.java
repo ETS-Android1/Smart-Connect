@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -54,6 +55,7 @@ public class NotificationAdapter extends RecyclerView.Adapter<NotificationAdapte
         }else {
             holder.postimage.setVisibility(View.GONE);
         }
+        CheckBox cb;
 
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
